@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44a31b63.css",
+    "main.js": "/static/js/main.8834d019.js",
+    "static/media/tochi2.jpg": "/static/media/tochi2.6bf40bf1192b261ebaf0.jpg",
+    "static/media/robot.jpg": "/static/media/robot.8591dfe7793f1b1d163e.jpg",
+    "index.html": "/index.html",
+    "main.44a31b63.css.map": "/static/css/main.44a31b63.css.map",
+    "main.8834d019.js.map": "/static/js/main.8834d019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a31b63.css",
+    "static/js/main.8834d019.js"
+  ]
+}
