@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatgpt/static/css/main.44a31b63.css",
+    "main.js": "/chatgpt/static/js/main.3c2fdde2.js",
+    "static/media/tochi2.jpg": "/chatgpt/static/media/tochi2.6bf40bf1192b261ebaf0.jpg",
+    "static/media/robot.jpg": "/chatgpt/static/media/robot.8591dfe7793f1b1d163e.jpg",
+    "index.html": "/chatgpt/index.html",
+    "main.44a31b63.css.map": "/chatgpt/static/css/main.44a31b63.css.map",
+    "main.3c2fdde2.js.map": "/chatgpt/static/js/main.3c2fdde2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a31b63.css",
+    "static/js/main.3c2fdde2.js"
+  ]
+}
